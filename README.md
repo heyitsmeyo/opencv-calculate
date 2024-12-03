@@ -16,3 +16,9 @@ Libraries needed to be installed :
       pip install opencv-python 
 
 
+
+# if you like the project , you can donate us for more : 
+
+    https://ko-fi.com/heyitsmeyo
+
+
