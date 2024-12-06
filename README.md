@@ -1,8 +1,9 @@
 # opencv-calculate
-an opencv project that lets you pretend the addition of two numbers with your hand 
+an opencv project that lets you pretend the sum of two numbers with your hand and , it it is correct , the buzzer connected to esp8266 beeps until you choose another equation
 
 
-![tarek-2024-12-03_15 43 13-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a19cf9ee-8d06-4542-9ad5-ac49e619458b)
+![InShot_20241206_154819503-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c0fce034-5bd6-49a5-a3a5-7cc0f6406dff)
+
 
 
 Libraries needed to be installed : 
